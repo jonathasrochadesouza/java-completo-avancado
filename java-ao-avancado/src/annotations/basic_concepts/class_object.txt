@@ -1,0 +1,86 @@
+ClasseVsObjeto
+OOP > tenta trazer a ideia de mundo real com os objetos, onde tudo acontece em torno desses "objetos"
+
+class Nome
+class - palavra reservada da línguagem
+Nome - variação
+
+Existem convenções que denominam padrões...
+
+class Nome {
+     "Corpo da classe fica aqui!"
+}
+
+No "Corpo da classe" temos caracteristicas, atributos e comportamentos
+
+Alguns comportamentos de um carro (exemplo):
+acelerar
+ligar
+freiar
+ligar ar
+desligar ar
+desligar
+
+Atributos = data
+atributos podem ser do tipo String, Date, Int, Boolean
+
+Comportamentos = métodos
+
+Classe agrupa os comportamentos e dados
+
+comportamento é próximo do dado
+
+Os objetos tem relacionamentos (assim como as coisas no mundo real), um objeto se liga a outro, pertence a outro, depende de outro, precisa de outro, aproveita de outro, ligam-se...
+
+OOP --> É tentar simplificar o mundo real dentro do software. Quais objetos, como interagem entre si, o que cada coisa faz, o que o usuário fará? OOP, facilita muito as regras de negócios, pois se aproximam muito do mundo real
+
+Porta pertence ao carro
+Pneu pertence a carro ou moto dependendo o tipo
+
+Simplifica a complexididade do mundo real
+
+Membros de uma classe = atributos e comportamentos
+
+Classe = abstração ou simplificação
+A abstração replica uma mesma ideia... Organiza determinados tipos de dados...
+Classe produto, pode ser usada para produtos como livros, dvds, roupas, etc, porém os atributos podem mudar! Pode-se criar uma abstração para os livros por exemplo, produtoLivro, etc.
+
+Temos as instâncias onde é dada apartir de uma classe, ou seja, nesses casos as classes são como um molde que pode ser chamada em diversos lugares, podem existir várias instâncias.
+
+Uma abstrata muitas das vezes não deve ter valores pré definidos, somente os atributos e base...
+
+Uma classe pode se tornar um objeto gerado através dela, é um exemplo de classe como molde.
+
+Produto
+Nome
+Preço
+Desconto (%)
+---- ---- ---- ---- 
+	> Notebook
+	> RS 3785,56
+	> 10
+---- ---- ---- ---- 
+	> Celular
+	> RS 900,07
+	> 0 
+---- ---- ---- ---- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

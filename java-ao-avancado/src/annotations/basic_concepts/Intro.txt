@@ -1,0 +1,47 @@
+Repositório do curso:
+https://github.com/cod3rcursos/curso-java
+
+O que é estrutura de dados?
+Dados é uma coisa, aqui os dados são estruturados, organizados, listados, trabalhados de forma organizada, como a lista por exemplo, onde entra coisas como a estrutura pilha, árvore, fila... Pode ordenar os dados ou ter uma regra de como cada dado será trabalhado... Cada línguagem pode trabalhar de maneira diferente... O dado se inicia em Inteiro... Não será possível mudar o tipo no decorrer do software, mas será possível mudar o dado, alterar de 45 para 90 por exemplo mas pode alterar para String (Tipo);
+
+FIFO -> First in, First out
+
+A pilha já chegue o LIFO -> last is fisrt, último a entrar é o último a sair!
+
+Árvore -> Organiza os dados (tabém é estrutura de dados)
+Tabela -> Usada para banco de dados (tabém é estrutura de dados)
+
+Estrutura de dados básicas
+Int
+Real
+Letra
+Bool
+Number (JavaScript (int and real (float)))
+
+Variáveis e constantes.
+O número PI é sem sombra de dúvida uma constante, não pode ser alterado...
+
+Estruturas personalizadas para mapeamento através de estruturas mais básicas...
+Operações...
+Algoritimo
+Processamento
+
+Básicamente estruturas de dados:
+Administra, estrutura os dados, regra de comportamento dos dados, organização
+
+Algoritimos
+Não são softwares, pode ser considerado uma sequencia de passos para chegar a determinados resultados...
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+Arquitetura e organização do projeto
+> Classe pode ser considerada arquivo
+> Package pode ser considerada pasta
+A organização, arquitetura e nomes usados em um projeto são essencialmente importantes, pois facilitam aos desenvolcedores uma fácil manutenção, e facilita encontrar o que se desejar no código!
+
+Saber criar os pacotes é importante, exemplo:
+_back_rh
+    |_administração
+    |_pessoa
+    |_system
+    |_tela_rh
+        |_screenrh.java
+_tela
+   |_screenhome.java
+_db
+-- -- -- OU:
+_back_rh
+    |_administração
+    |_pessoa
+    |_system
+_tela
+   |_screenhome.java
+   |_screenrh.java
+_db
+
+Projeto > Pasta > Arquivo
+
+Cada arquivo (.java) deve interagir entre si, ou seja, em um projeto, sistema grande, é básicamente um várias classes grandes colaborando entre si...
+
+
+
+
+
+
+

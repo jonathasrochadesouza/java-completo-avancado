@@ -1,0 +1,35 @@
+Comentários e Documentação
+
+Comentário é super diferente de documentação
+
+Comentário de 1 linha:
+// 1 linha apenas
+
+Comentário de múltiplas linhas:
+/*
+linha 1
+linha 2
+linha 3
+*/
+
+Documentação:
+/**
+* Esta classe faz...
+*
+* @author Jonathas Rocha <email@here> ou (email@here)
+* @since JDK1.0
+*/
+
+É mais vantagem muitas das vezes preferivel criar nomes legiveis e entendiveis do que comentar de mais, acaba sujando o código...
+Comentários apenas quando necessários e relevantes...
+
+Livro código limpo
+
+
+
+
+
+
+
+
+

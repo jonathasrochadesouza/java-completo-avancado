@@ -1,0 +1,27 @@
+Tipos primitivos
+Byte, Short, Int, Long (do menor ao maior)
+Byte = -128 até +127 (por causa do 0 que já considera aqui) 
+o zero cai como "positivo"
+1 byte = 8 bits
+
+Float, Double
+
+CHAR > a character (a number, a letter)
+Boolean > False or True
+
+in the JavaScript:
+0 = false
+others positives numbers = true
+String blank "" = false
+String = true
+
+
+
+
+
+
+
+
+
+
+
